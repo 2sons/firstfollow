@@ -1,7 +1,11 @@
 firstfollow
 ===========
 
-c program for first and follow of given grammar
+first and follow of given grammar
+
+The Follwong code generates as what we call as FIRST AND FOLLOW for given non recursive grammar
+
+The code had been written in C Language
 
 The following code uses two recursive functions namely first and follow
 
